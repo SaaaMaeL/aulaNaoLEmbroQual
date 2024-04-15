@@ -1,0 +1,16 @@
+<html><title>página</title>
+<head><h1><center>página de versionamento</h1></center></head>
+<p>
+<body bgcolor="gold">
+<marquee>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS4UJP8NHuKjQ34J-SqrUsOkUn4LgI4TQwFA3vAtqkvw&s" width="400" height="300">
+<img src="https://hermes.dio.me/articles/cover/b749e313-f4d9-4038-bc3c-7854a8975244.jpg" width="400" height="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmngeGJFNocA_JXfnBGI-yKvz1WNGQ2P7hYqKDrpO2w&s" width="400" height="300">
+<img src="https://programadorcasual.com/wp-content/uploads/2020/08/sql.png" width="400" height="300">
+</marquee><p><center>
+<table border="1" width="800">
+<tr><td> git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo. </td>
+  <td>Bancos de dados ou bases de dados são conjuntos de arquivos relacionados entre si, podendo conter registros sobre pessoas, lugares ou informações em geral. São coleções organizadas de dados que se relacionam ou não, com o objetivo de armazenar informações.</td>
+  <td>Structured Query Language, lit. "linguagem de consulta estruturada", é uma linguagem de domínio específico desenvolvida para gerenciar dados relacionais em um sistema de gerenciamento de banco de dados, ou para processamento de fluxo de dados em um sistema de gerenciamento de fluxo de dados.</td>
+</tr></table>
+</body></html>
